@@ -1,5 +1,5 @@
 {
-  "name": "type.js",
+  "name": "types-js",
   "version": "0.1.0",
   "description": "A lib to type your js",
   "main": "type.js",
