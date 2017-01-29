@@ -1,4 +1,4 @@
-# Type.js
+# Types-js
 Uma biblioteca para tipar seu javascript.
 
 ## O que é?
