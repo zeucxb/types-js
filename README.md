@@ -1,4 +1,4 @@
-# Types-js
+# [Types-js](https://github.com/zeucxb/types-js/) &middot; [![Dependency Status](https://david-dm.org/zeucxb/types-js.svg)](https://david-dm.org/zeucxb/types-js) [![devDependency Status](https://david-dm.org/zeucxb/types-js/dev-status.svg)](https://david-dm.org/zeucxb/types-js#info=devDependencies) [![npm](https://img.shields.io/npm/v/types-js.svg)](https://www.npmjs.com/package/types-js) [![npm](https://img.shields.io/npm/dt/types-js.svg)](https://www.npmjs.com/package/types-js)
 Uma biblioteca para tipar seu javascript.
 
 ## O que é?
