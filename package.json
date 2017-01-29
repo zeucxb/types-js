@@ -1,0 +1,33 @@
+{
+  "name": "type.js",
+  "version": "0.1.0",
+  "description": "A lib to type your js",
+  "main": "type.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeucxb/type.js.git"
+  },
+  "keywords": [
+    "type",
+    "js"
+  ],
+  "author": "zeucxb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zeucxb/type.js/issues"
+  },
+  "homepage": "https://github.com/zeucxb/type.js#readme",
+  "devDependencies": {
+    "eslint": "^3.14.1",
+    "eslint-config-airbnb": "^14.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^3.0.2",
+    "eslint-plugin-react": "^6.9.0"
+  }
+}

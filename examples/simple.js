@@ -1,4 +1,4 @@
-const Type = require("../type");
+const Type = require('../type');
 
-console.log(Type.validate("odd", 1));
-console.log(Type.validate("odd", "a"));
+console.log(Type.validate('odd', 1));
+console.log(Type.validate('odd', 'a'));

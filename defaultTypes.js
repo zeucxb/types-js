@@ -1,18 +1,16 @@
 const dafaultTypes = {
-  number: (value) => {
+  number: value => ({
+    valid: !isNaN(value),
+    value,
+  }),
+  odd: (_value, opts) => {
+    const value = opts.validate('number', _value);
+
     return {
-      valid: !isNaN(value),
+      valid: (value % 2) > 0,
       value,
     };
   },
-  odd: (_value, opts) => {
-    const value = opts.validate('number', _value)
-    
-    return {
-      valid: 0 < (value % 2),
-      value,
-    };
-  }
 };
 
 module.exports = dafaultTypes;
