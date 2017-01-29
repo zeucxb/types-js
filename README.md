@@ -15,3 +15,6 @@ Essa biblioteca permite a utilização de tipos padrões, bem como a criação d
 TypeScript é muito utilizado e bem poderoso, porém traz uma proposta diferente.
 
 Ele compila para javascript puro, removendo a tipagem além disso contém diversas outras `features`, como interfaces e classes, que não é nosso objetivo aqui; TypeScript também te limita a usar os tipos padrões.
+
+## Quer contribuir?
+Temos essas issues: [![GitHub issues](https://img.shields.io/github/issues/zeucxb/types-js.svg)](https://github.com/zeucxb/types-js/issues)
